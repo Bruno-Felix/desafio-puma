@@ -11,8 +11,8 @@ Ambos os projetos, backend e frontend, estão dockerizados.
 
 ```bash
 # Rodando o docker-compose
-$ sudo docker-compose build
-$ sudo docker-compose up
+$ sudo docker compose build
+$ sudo docker compose up
 ```
 
 Para os projetos rodarem e conversarem, é preciso rodar os dois container simultaneamente.
